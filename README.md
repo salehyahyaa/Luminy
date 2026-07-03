@@ -2,7 +2,7 @@
 > - This public repository is a sanitized architecture skeleton of Luminy’s private production codebase.
 > - The full source code is private because Luminy is an active production platform w/ 1k+ real users.
 
-# Luminyy
+# Luminy
 
 Luminy is a personal finance automation platform I built to help users connect financial accounts, sync transactions, track spending, detect recurring subscriptions, and view account-level insights from one dashboard.
 
